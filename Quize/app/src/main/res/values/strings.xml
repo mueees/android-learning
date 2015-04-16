@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quize</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_text">You are older 24?</string>
+</resources>
