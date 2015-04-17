@@ -7,4 +7,14 @@
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="question_text">You are older 24?</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    
+    <!--questions-->
+    <string name="question_ocean">Is ocean?</string>
+    <string name="question_ocean1">Is ocean 1?</string>
+    <string name="question_ocean2">Is ocean 2?</string>
+
 </resources>
